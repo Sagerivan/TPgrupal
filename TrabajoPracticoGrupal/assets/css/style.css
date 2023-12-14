@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+}
+
+.icono{
+    color: black;
+    font-size: 30px;
+}
+
+.link{
+    font-weight: 400;
+    font-size: 20px;
+    color: black;
+}
+
+.imagenjuana{
+    height: 300px;
+    border-radius: 50%;
+    border: 10px solid white;
+
+}
+
+
+/*
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+img, svg {
+    vertical-align: middle;
+}
+
+*/
+
+.profile-image{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+p{
+    width: auto !important;
+}
+
+.skills-section{
+    background-color: #F8F9FA;
+}
+
+.skills-title{
+    background-color: #5F9DF7;
+    padding: 1em;
+    width: fit-content !important;
+    text-align: center;
+}
+
+.skill-image{
+    width: 100px;
+    height: 100px;
+}
+
+
+.imgProyecto{
+    height: 100px;
+    width: 100px ;
+}
+
+.gritTemplate{
+    display: flex;
+    flex-direction: row;
+}
